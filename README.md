@@ -12,7 +12,7 @@
 - 📖Busco aprende e me aperfeiçoar em programação principalmente phyton e javascript, utilizando java script para frontend focado na web e phyton para backend focado em machine lerning e data science entre outros frameworks, HTML e CSS
 - 🔉Gosto de trocar experiências e me comunicar 
 - 💾Busco aperfeiçoar meu inglês e outras softskills
-- 📰nivel de inglês basico/intermediario
+- 📰Nivel de inglês basico/intermediario
 
 ##
 
