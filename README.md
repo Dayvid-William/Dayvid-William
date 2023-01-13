@@ -18,7 +18,12 @@
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/dayvid-william">
-  api/top-langs?dayvid-william=anuraghazra
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?dayvid-william=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?dayvid-william=anuraghazra&repo=convoychat" />
+</a>
 </div>
   
   ##
