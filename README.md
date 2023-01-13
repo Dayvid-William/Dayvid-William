@@ -18,7 +18,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/dayvid-william">
-  https://github-readme-stats.vercel.app/api/top-langs/?dayvid-william=anuraghazra https://github.com/anuraghazra/github-readme-stats
+  api/top-langs?dayvid-william=anuraghazra
 </div>
   
   ##
