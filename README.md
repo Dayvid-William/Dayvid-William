@@ -15,13 +15,17 @@
 - 📰Nivel de inglês basico/intermediario
 
 ##
-<a href="https://github.com/Dayvid-William/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayvid-William&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Dayvid-William/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dayvid-William&repo=convoychat" />
-</a>
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Dayvid-William_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Dayvid-William&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&show_icons=true" />
+</picture>
   ##
   
  <div style="display: inline_block"><br>
