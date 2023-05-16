@@ -15,10 +15,9 @@
 - 📰Nivel de inglês basico/intermediario
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayvid-william&show_icons=true&theme=dracula)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayvid-william&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-william&compact_layout=true&theme=dracula)](https://github.com/Dayvid-William/github-readme-stats)
-
-  ##
+##
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
