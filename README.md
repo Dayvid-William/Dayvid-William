@@ -16,6 +16,8 @@
 
 ##
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-william&compact_layout=true&theme=dracula)](https://github.com/Dayvid-William/github-readme-stats)
+
   ##
   
  <div style="display: inline_block"><br>
