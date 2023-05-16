@@ -16,7 +16,7 @@
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayvid-william&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-william&compact_layout=true&theme=dracula)](https://github.com/Dayvid-William/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-William&layout=donut&theme=dracula)](https://github.com/Dayvid-William/github-readme-stats&theme=dracula)
 ##
   
  <div style="display: inline_block"><br>
