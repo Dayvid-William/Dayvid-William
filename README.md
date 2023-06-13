@@ -5,7 +5,7 @@
 - 🔉I like to exchange experiences and communicate
 - 💾I use to improve my English and other softskills
 - 📰Basic/Intermediate English level
-- learning German
+- 📰learning German
 
 ##
 
