@@ -5,6 +5,7 @@
 - 🔉I like to exchange experiences and communicate
 - 💾I use to improve my English and other softskills
 - 📰Basic/Intermediate English level
+- learning German
 
 ##
 
@@ -13,6 +14,7 @@
 - 🔉Gosto de trocar experiências e me comunicar 
 - 💾Busco aperfeiçoar meu inglês e outras softskills
 - 📰Nivel de inglês basico/intermediario
+- 📰Aprendendo alemão
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayvid-William&show_icons=true&theme=dracula)
