@@ -18,7 +18,6 @@
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayvid-William&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-William&layout=donut&theme=dracula)](https://github.com/Dayvid-William/github-readme-stats)
 ##
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
