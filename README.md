@@ -4,7 +4,7 @@
 - 📖I seek to learn and improve myself in programming mainly phyton and javascript, using java script for frontend focused on the web and phyton for backend focused on machine lerning and data science among other frameworks, HTML and CSS
 - 🔉I like to exchange experiences and communicate
 - 💾I use to improve my English and other softskills
-- 📰Basic/Intermediate English level
+- 📰Intermediate English level
 
 ##
 
@@ -12,12 +12,8 @@
 - 📖Busco aprende e me aperfeiçoar em programação principalmente phyton e javascript, utilizando java script para frontend focado na web e phyton para backend focado em machine lerning e data science entre outros frameworks, HTML e CSS
 - 🔉Gosto de trocar experiências e me comunicar 
 - 💾Busco aperfeiçoar meu inglês e outras softskills
-- 📰Nivel de inglês basico/intermediario
-
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayvid-William&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-William&layout=compact&theme=dracula)
-
+- 📰Nivel de inglês intermediario
+- 
 ##
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
