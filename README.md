@@ -25,3 +25,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayvid-william-7b5133235/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/william_dayvid)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programadorconstante/?next=%2F)
+##
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CesarSantos99&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=836FFF&bg_color=B0E0E6" alt="César Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarSantos99&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=B0E0E6" />
+</div>
