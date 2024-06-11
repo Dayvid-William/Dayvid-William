@@ -27,6 +27,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programadorconstante/?next=%2F)
 ##
 <div align="center">  
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&show_icons=true&count_private=true&hide_border=true" alt="Dayvid william github stats" /> 
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-William&layout=compact&hide_border=true&count_private=true"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=Dayvid-William">
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&theme=tokyonight&bg_color=000&show_icons=true" />
+</a>
+<a href="https://github.com/Dayvid-William/convoychat">
+  <img height=198 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayvid-William&bg_color=000&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
+</a>
+
 </div>
