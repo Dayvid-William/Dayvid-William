@@ -24,10 +24,10 @@
 ##
 <div align="center">  
   <a href="https://github-readme-stats.vercel.app/api?username=Dayvid-William">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&theme=dracula&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/Dayvid-William/convoychat">
-  <img height=198 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayvid-William&layout=compact&langs_count=8&card_width=300&theme=dracula" />
+  <img height=198 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayvid-William&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
 </a>
 
 </div>
