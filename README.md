@@ -1,18 +1,18 @@
 ### Hi there i'm Dayvid William  👋
 
-- 💻Currently I only work on personal projects, using javascript, phyton and java
-- 📖I seek to learn and improve myself in programming mainly phyton and javascript, using java script for frontend focused on the web and phyton for backend focused on machine lerning and data science among other frameworks, HTML and CSS
+- 💻Freelance web developer
+- 📖Studying software engineering
 - 🔉I like to exchange experiences and communicate
-- 💾I use to improve my English and other softskills
-- 📰Intermediate English level
+- 💾I'm looking to improve my English, programming skills and other soft skills
+- 📰Mid level english-
 
 ##
 
-- 💻Atualmente trabalho apenas em projetos pessoais, usando javascript, phyton e java
-- 📖Busco aprende e me aperfeiçoar em programação principalmente phyton e javascript, utilizando java script para frontend focado na web e phyton para backend focado em machine lerning e data science entre outros frameworks, HTML e CSS
+- 💻Desenvolvedor Web frelancer
+- 📖Cursando engenharia de software 
 - 🔉Gosto de trocar experiências e me comunicar 
-- 💾Busco aperfeiçoar meu inglês e outras softskills
-- 📰Nivel de inglês intermediario
+- 💾Busco aperfeiçoar meu inglês, habilidades como programador entre outras soft skills
+- 📰Inglês intermediario
   
 ##
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
