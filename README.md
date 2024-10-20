@@ -4,7 +4,7 @@
 - 📖Studying software engineering
 - 🔉I like to exchange experiences and communicate
 - 💾I'm looking to improve my English, programming skills and other soft skills
-- 📰Mid level english-
+- 📰Mid level english
 
 ##
 
