@@ -1,6 +1,6 @@
 ### Hi there i'm Dayvid William  👋
 
-- 💻Freelance web developer
+- 💻We Developer
 - 📖Studying software engineering
 - 🔉I like to exchange experiences and communicate
 - 💾I'm looking to improve my English, programming skills and other soft skills
@@ -8,7 +8,7 @@
 
 ##
 
-- 💻Desenvolvedor Web frelancer
+- 💻Desenvolvedor Web
 - 📖Cursando engenharia de software 
 - 🔉Gosto de trocar experiências e me comunicar 
 - 💾Busco aperfeiçoar meu inglês, habilidades como programador entre outras soft skills
