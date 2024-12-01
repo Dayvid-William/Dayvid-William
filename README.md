@@ -1,6 +1,6 @@
 ### Hi there i'm Dayvid William  👋
 
-- 💻We Developer
+- 💻Web Developer
 - 📖Studying software engineering
 - 🔉I like to exchange experiences and communicate
 - 💾I'm looking to improve my English, programming skills and other soft skills
