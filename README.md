@@ -17,17 +17,17 @@
 ##
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JS](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ##
 <div align="center">  
   <a href="https://github-readme-stats.vercel.app/api?username=Dayvid-William">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&theme=tokyonight&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&theme=tokyonight&show_icons=true"/>
 </a>
 <a href="https://github.com/Dayvid-William/convoychat">
-  <img height=198 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayvid-William&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
+  <img height=198 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayvid-William&layout=compact&langs_count=8&card_width=300&theme=tokyonight"/>
 </a>
 
 </div>
