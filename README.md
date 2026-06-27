@@ -1,6 +1,6 @@
 ### Hi there i'm Dayvid William  👋
 
-- 💻Brazilian Web Developer
+- 💻Brazilian BackEnd Web Developer
 - 📖Studying Software Engineering
 - 🔉I like to exchange experiences and communicate
 - 💾I'm looking to improve my English, programming skills and other soft skills
