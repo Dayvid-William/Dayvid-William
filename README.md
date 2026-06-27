@@ -8,7 +8,7 @@
 
 ##
 
-- 💻Desenvolvedor Web Brasileiro
+- 💻Desenvolvedor Web BackEnd Brasileiro
 - 📖Cursando Engenharia de Software 
 - 🔉Gosto de trocar experiências e me comunicar 
 - 💾Busco aperfeiçoar meu inglês, habilidades como programador entre outras soft skills
