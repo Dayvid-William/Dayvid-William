@@ -1,6 +1,6 @@
 ### Hi there i'm Dayvid William  👋
 
-- 💻Web Developer
+- 💻Brazilian Web Developer
 - 📖Studying Software Engineering
 - 🔉I like to exchange experiences and communicate
 - 💾I'm looking to improve my English, programming skills and other soft skills
@@ -8,7 +8,7 @@
 
 ##
 
-- 💻Desenvolvedor Web
+- 💻Desenvolvedor Web Brasileiro
 - 📖Cursando Engenharia de Software 
 - 🔉Gosto de trocar experiências e me comunicar 
 - 💾Busco aperfeiçoar meu inglês, habilidades como programador entre outras soft skills
