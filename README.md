@@ -21,16 +21,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-##
-<div align="center">  
-  <a href="https://github-readme-stats.vercel.app/api?username=Dayvid-William">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dayvid-William&theme=tokyonight&show_icons=true"/>
-</a>
-<a href="https://github.com/Dayvid-William/convoychat">
-  <img height=198 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayvid-William&layout=compact&langs_count=8&card_width=300&theme=tokyonight"/>
-</a>
-
-</div>
 
 ##
 
